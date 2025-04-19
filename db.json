@@ -1,0 +1,117 @@
+{
+    "Nike": [
+      {
+        "id": 1,
+        "materialBrand": "Nike",
+        "data": [
+          "https://i.pinimg.com/236x/89/d9/20/89d9202ca81e5cf7e80a37555b62b128.jpg",
+          "https://cdn.shopify.com/s/files/1/0347/3225/files/DressingWell_30s_8_600x600.jpg?v=1685448409",
+          "https://5.imimg.com/data5/SELLER/Default/2023/6/320105690/UG/MH/AX/192039720/mens-wear.jpeg"
+        ]
+      },
+      {
+        "id": 2,
+        "materialBrand": "Nike",
+        "data": [
+          "https://i.pinimg.com/236x/89/d9/20/89d9202ca81e5cf7e80a37555b62b128.jpg",
+          "https://cdn.shopify.com/s/files/1/0347/3225/files/DressingWell_30s_8_600x600.jpg?v=1685448409",
+          "https://5.imimg.com/data5/SELLER/Default/2023/6/320105690/UG/MH/AX/192039720/mens-wear.jpeg"
+        ]
+      },
+      {
+        "id": 3,
+        "materialBrand": "Nike",
+        "data": [
+          "https://i.pinimg.com/236x/89/d9/20/89d9202ca81e5cf7e80a37555b62b128.jpg",
+          "https://cdn.shopify.com/s/files/1/0347/3225/files/DressingWell_30s_8_600x600.jpg?v=1685448409",
+          "https://5.imimg.com/data5/SELLER/Default/2023/6/320105690/UG/MH/AX/192039720/mens-wear.jpeg"
+        ]
+      },
+      {
+        "id": 4,
+        "materialBrand": "Nike",
+        "data": [
+          "https://i.pinimg.com/236x/89/d9/20/89d9202ca81e5cf7e80a37555b62b128.jpg",
+          "https://cdn.shopify.com/s/files/1/0347/3225/files/DressingWell_30s_8_600x600.jpg?v=1685448409",
+          "https://5.imimg.com/data5/SELLER/Default/2023/6/320105690/UG/MH/AX/192039720/mens-wear.jpeg"
+        ]
+      }
+    ],
+    "Levis":[
+        {
+          "id": 1,
+          "materialBrand": "Levis",
+          "data": [
+            "https://i.pinimg.com/236x/89/d9/20/89d9202ca81e5cf7e80a37555b62b128.jpg",
+            "https://cdn.shopify.com/s/files/1/0347/3225/files/DressingWell_30s_8_600x600.jpg?v=1685448409",
+            "https://5.imimg.com/data5/SELLER/Default/2023/6/320105690/UG/MH/AX/192039720/mens-wear.jpeg"
+          ]
+        },
+        {
+          "id": 2,
+          "materialBrand": "Levis",
+          "data": [
+            "https://i.pinimg.com/236x/89/d9/20/89d9202ca81e5cf7e80a37555b62b128.jpg",
+            "https://cdn.shopify.com/s/files/1/0347/3225/files/DressingWell_30s_8_600x600.jpg?v=1685448409",
+            "https://5.imimg.com/data5/SELLER/Default/2023/6/320105690/UG/MH/AX/192039720/mens-wear.jpeg"
+          ]
+        },
+        {
+          "id": 3,
+          "materialBrand": "Levis",
+          "data": [
+            "https://i.pinimg.com/236x/89/d9/20/89d9202ca81e5cf7e80a37555b62b128.jpg",
+            "https://cdn.shopify.com/s/files/1/0347/3225/files/DressingWell_30s_8_600x600.jpg?v=1685448409",
+            "https://5.imimg.com/data5/SELLER/Default/2023/6/320105690/UG/MH/AX/192039720/mens-wear.jpeg"
+          ]
+        },
+        {
+          "id": 4,
+          "materialBrand": "Levis",
+          "data": [
+            "https://i.pinimg.com/236x/89/d9/20/89d9202ca81e5cf7e80a37555b62b128.jpg",
+            "https://cdn.shopify.com/s/files/1/0347/3225/files/DressingWell_30s_8_600x600.jpg?v=1685448409",
+            "https://5.imimg.com/data5/SELLER/Default/2023/6/320105690/UG/MH/AX/192039720/mens-wear.jpeg"
+          ]
+        }
+      ],
+      "allensolly":[
+        {
+          "id": 1,
+          "materialBrand": "AllenSolly",
+          "data": [
+            "https://i.pinimg.com/236x/89/d9/20/89d9202ca81e5cf7e80a37555b62b128.jpg",
+            "https://cdn.shopify.com/s/files/1/0347/3225/files/DressingWell_30s_8_600x600.jpg?v=1685448409",
+            "https://5.imimg.com/data5/SELLER/Default/2023/6/320105690/UG/MH/AX/192039720/mens-wear.jpeg"
+          ]
+        },
+        {
+          "id": 2,
+          "materialBrand": "AllenSolly",
+          "data": [
+            "https://i.pinimg.com/236x/89/d9/20/89d9202ca81e5cf7e80a37555b62b128.jpg",
+            "https://cdn.shopify.com/s/files/1/0347/3225/files/DressingWell_30s_8_600x600.jpg?v=1685448409",
+            "https://5.imimg.com/data5/SELLER/Default/2023/6/320105690/UG/MH/AX/192039720/mens-wear.jpeg"
+          ]
+        },
+        {
+          "id": 3,
+          "materialBrand": "AllenSolly",
+          "data": [
+            "https://i.pinimg.com/236x/89/d9/20/89d9202ca81e5cf7e80a37555b62b128.jpg",
+            "https://cdn.shopify.com/s/files/1/0347/3225/files/DressingWell_30s_8_600x600.jpg?v=1685448409",
+            "https://5.imimg.com/data5/SELLER/Default/2023/6/320105690/UG/MH/AX/192039720/mens-wear.jpeg"
+          ]
+        },
+        {
+          "id": 4,
+          "materialBrand": "AllenSolly",
+          "data": [
+            "https://i.pinimg.com/236x/89/d9/20/89d9202ca81e5cf7e80a37555b62b128.jpg",
+            "https://cdn.shopify.com/s/files/1/0347/3225/files/DressingWell_30s_8_600x600.jpg?v=1685448409",
+            "https://5.imimg.com/data5/SELLER/Default/2023/6/320105690/UG/MH/AX/192039720/mens-wear.jpeg"
+          ]
+        }
+      ]
+  }
+  
